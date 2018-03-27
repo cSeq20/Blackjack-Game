@@ -1,0 +1,21 @@
+			BlackJack
+	----------------------------------------------------------------------------------------------------
+	The game is played between you, the player, and the Dealer (computer).
+	The aim is to get 21 or as close to 21 as possible.
+	At the start both you and the dealer are dealt two cards.
+	You are then presented with two options in each turn: 
+	Hit: means you are dealt another card.
+	Stand: means you want to "stand" with your cards and not be dealt another card.
+	When you "Stand", if the dealer's cards total less than 17 he will deal himself another card.
+	The game then checks the winner.
+
+	Betting Conditions:
+	You can bet any amount greater than 10, but less than your money held.
+
+	Winning Conditions:
+	For a win you win double the amount, and for loss you lose your bet.
+	If you get a straight 21 you win!
+	If the dealer gets a 21 you lose!
+	If your card total is greater than the dealers but less than 21 you Win!
+	If both your total and dealer total is equal you lose!
+	If both you and the dealer's card total is above 21, then the closest to 21 wins!
